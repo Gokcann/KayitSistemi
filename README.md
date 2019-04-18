@@ -1,6 +1,6 @@
 # KayitSistemi
 
-SQL School Project fot .NET 4.0
+SQL School Project for .NET 4.0
 
 Set as StartUp project -> Select .NET 4.0
 
