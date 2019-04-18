@@ -8,4 +8,4 @@ This project is a combination of two homework projects!
 
 First Project: Database Registration System
 
-Seconnd Project: Jacks or Better Game
+Second Project: Jacks or Better Game
