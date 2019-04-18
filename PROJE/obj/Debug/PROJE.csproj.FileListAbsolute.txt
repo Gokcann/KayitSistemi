@@ -1,0 +1,80 @@
+c:\users\vaio\documents\visual studio 2017\Projects\PROJE\PROJE\bin\Debug\PROJE.exe.config
+c:\users\vaio\documents\visual studio 2017\Projects\PROJE\PROJE\bin\Debug\PROJE.exe
+c:\users\vaio\documents\visual studio 2017\Projects\PROJE\PROJE\bin\Debug\PROJE.pdb
+c:\users\vaio\documents\visual studio 2017\Projects\PROJE\PROJE\obj\Debug\PROJE.csprojResolveAssemblyReference.cache
+c:\users\vaio\documents\visual studio 2017\Projects\PROJE\PROJE\obj\Debug\PROJE.Form1.resources
+c:\users\vaio\documents\visual studio 2017\Projects\PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+c:\users\vaio\documents\visual studio 2017\Projects\PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.Cache
+c:\users\vaio\documents\visual studio 2017\Projects\PROJE\PROJE\obj\Debug\PROJE.exe
+c:\users\vaio\documents\visual studio 2017\Projects\PROJE\PROJE\obj\Debug\PROJE.pdb
+C:\Users\vaio\Documents\Visual Studio 2017\Projects\PROJE\PROJE\obj\Debug\PROJE.ogrenci.resources
+C:\Users\vaio\Documents\Visual Studio 2017\Projects\PROJE\PROJE\obj\Debug\PROJE.islem.resources
+C:\Users\vaio\Documents\Visual Studio 2017\Projects\PROJE\PROJE\obj\Debug\PROJE.kitap.resources
+C:\Users\vaio\Documents\Visual Studio 2017\Projects\PROJE\PROJE\obj\Debug\PROJE.yazar.resources
+C:\Users\vaio\Documents\Visual Studio 2017\Projects\PROJE\PROJE\obj\Debug\PROJE.tur.resources
+C:\Users\vaio\Documents\Visual Studio 2017\Projects\PROJE\PROJE\obj\Debug\PROJE.SQL.resources
+C:\Users\vaio\Desktop\yedekleri en şişkosu\PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\vaio\Desktop\yedekleri en şişkosu\PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\vaio\Desktop\yedekleri en şişkosu\PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\vaio\Desktop\yedekleri en şişkosu\PROJE\PROJE\obj\Debug\PROJE.csprojResolveAssemblyReference.cache
+C:\Users\vaio\Desktop\yedekleri en şişkosu\PROJE\PROJE\obj\Debug\PROJE.baslat.resources
+C:\Users\vaio\Desktop\yedekleri en şişkosu\PROJE\PROJE\obj\Debug\Proje.Form1.resources
+C:\Users\vaio\Desktop\yedekleri en şişkosu\PROJE\PROJE\obj\Debug\PROJE.islem.resources
+C:\Users\vaio\Desktop\yedekleri en şişkosu\PROJE\PROJE\obj\Debug\PROJE.kitap.resources
+C:\Users\vaio\Desktop\yedekleri en şişkosu\PROJE\PROJE\obj\Debug\PROJE.ogrenci.resources
+C:\Users\vaio\Desktop\yedekleri en şişkosu\PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\vaio\Desktop\yedekleri en şişkosu\PROJE\PROJE\obj\Debug\PROJE.SQL.resources
+C:\Users\vaio\Desktop\yedekleri en şişkosu\PROJE\PROJE\obj\Debug\PROJE.tur.resources
+C:\Users\vaio\Desktop\yedekleri en şişkosu\PROJE\PROJE\obj\Debug\PROJE.yazar.resources
+C:\Users\vaio\Desktop\yedekleri en şişkosu\PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.Cache
+C:\Users\vaio\Desktop\yedekleri en şişkosu\PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\vaio\Desktop\yedekleri en şişkosu\PROJE\PROJE\obj\Debug\PROJE.pdb
+C:\Users\vaio\Desktop\GönderilecekHAZIRPROJEMIZ\PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\vaio\Desktop\GönderilecekHAZIRPROJEMIZ\PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\vaio\Desktop\GönderilecekHAZIRPROJEMIZ\PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\vaio\Desktop\GönderilecekHAZIRPROJEMIZ\PROJE\PROJE\obj\Debug\PROJE.csprojResolveAssemblyReference.cache
+C:\Users\vaio\Desktop\GönderilecekHAZIRPROJEMIZ\PROJE\PROJE\obj\Debug\PROJE.baslat.resources
+C:\Users\vaio\Desktop\GönderilecekHAZIRPROJEMIZ\PROJE\PROJE\obj\Debug\Proje.Form1.resources
+C:\Users\vaio\Desktop\GönderilecekHAZIRPROJEMIZ\PROJE\PROJE\obj\Debug\PROJE.islem.resources
+C:\Users\vaio\Desktop\GönderilecekHAZIRPROJEMIZ\PROJE\PROJE\obj\Debug\PROJE.kitap.resources
+C:\Users\vaio\Desktop\GönderilecekHAZIRPROJEMIZ\PROJE\PROJE\obj\Debug\PROJE.ogrenci.resources
+C:\Users\vaio\Desktop\GönderilecekHAZIRPROJEMIZ\PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\vaio\Desktop\GönderilecekHAZIRPROJEMIZ\PROJE\PROJE\obj\Debug\PROJE.SQL.resources
+C:\Users\vaio\Desktop\GönderilecekHAZIRPROJEMIZ\PROJE\PROJE\obj\Debug\PROJE.tur.resources
+C:\Users\vaio\Desktop\GönderilecekHAZIRPROJEMIZ\PROJE\PROJE\obj\Debug\PROJE.yazar.resources
+C:\Users\vaio\Desktop\GönderilecekHAZIRPROJEMIZ\PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.Cache
+C:\Users\vaio\Desktop\GönderilecekHAZIRPROJEMIZ\PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\vaio\Desktop\GönderilecekHAZIRPROJEMIZ\PROJE\PROJE\obj\Debug\PROJE.pdb
+C:\Users\vaio\Desktop\veritabani_prj\PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\vaio\Desktop\veritabani_prj\PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\vaio\Desktop\veritabani_prj\PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\vaio\Desktop\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.csprojResolveAssemblyReference.cache
+C:\Users\vaio\Desktop\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.baslat.resources
+C:\Users\vaio\Desktop\veritabani_prj\PROJE\PROJE\obj\Debug\Proje.Form1.resources
+C:\Users\vaio\Desktop\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.islem.resources
+C:\Users\vaio\Desktop\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.kitap.resources
+C:\Users\vaio\Desktop\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.ogrenci.resources
+C:\Users\vaio\Desktop\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\vaio\Desktop\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.SQL.resources
+C:\Users\vaio\Desktop\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.tur.resources
+C:\Users\vaio\Desktop\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.yazar.resources
+C:\Users\vaio\Desktop\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.Cache
+C:\Users\vaio\Desktop\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\vaio\Desktop\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.pdb
+C:\Users\gkcn\Desktop\1\mert\veritabani_prj\PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\gkcn\Desktop\1\mert\veritabani_prj\PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\gkcn\Desktop\1\mert\veritabani_prj\PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\gkcn\Desktop\1\mert\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.csprojAssemblyReference.cache
+C:\Users\gkcn\Desktop\1\mert\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.baslat.resources
+C:\Users\gkcn\Desktop\1\mert\veritabani_prj\PROJE\PROJE\obj\Debug\Proje.Form1.resources
+C:\Users\gkcn\Desktop\1\mert\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.islem.resources
+C:\Users\gkcn\Desktop\1\mert\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.kitap.resources
+C:\Users\gkcn\Desktop\1\mert\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.ogrenci.resources
+C:\Users\gkcn\Desktop\1\mert\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\gkcn\Desktop\1\mert\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.SQL.resources
+C:\Users\gkcn\Desktop\1\mert\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.tur.resources
+C:\Users\gkcn\Desktop\1\mert\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.yazar.resources
+C:\Users\gkcn\Desktop\1\mert\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\gkcn\Desktop\1\mert\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\gkcn\Desktop\1\mert\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\gkcn\Desktop\1\mert\veritabani_prj\PROJE\PROJE\obj\Debug\PROJE.pdb

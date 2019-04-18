@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BE4F4040-BADF-4ABA-BABA-70BBC2B3A93D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PROJE</RootNamespace>
+    <AssemblyName>PROJE</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="baslat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="baslat.Designer.cs">
+      <DependentUpon>baslat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dagitici.cs" />
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Oyun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IDagitici.cs" />
+    <Compile Include="islem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="islem.Designer.cs">
+      <DependentUpon>islem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kartlar.cs" />
+    <Compile Include="kitap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitap.Designer.cs">
+      <DependentUpon>kitap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ogrenci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ogrenci.Designer.cs">
+      <DependentUpon>ogrenci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Oyun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Oyuncu.cs" />
+    <Compile Include="Oyuncu_.cs" />
+    <Compile Include="Pc.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SQL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SQL.Designer.cs">
+      <DependentUpon>SQL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tur.Designer.cs">
+      <DependentUpon>tur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yazar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yazar.Designer.cs">
+      <DependentUpon>yazar.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="baslat.resx">
+      <DependentUpon>baslat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Oyun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="islem.resx">
+      <DependentUpon>islem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitap.resx">
+      <DependentUpon>kitap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ogrenci.resx">
+      <DependentUpon>ogrenci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SQL.resx">
+      <DependentUpon>SQL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tur.resx">
+      <DependentUpon>tur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yazar.resx">
+      <DependentUpon>yazar.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
